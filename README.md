@@ -3,7 +3,7 @@ This is an example project that uses the [GitHub Maven Plugins](https://github.c
 See the [POM file](https://github.com/kevinsawicki/github-maven-example/blob/master/example/pom.xml)
 for how the downloads plugin and site plugin are configured.
 
-We are building a sample java application with Jenkins on EC2 servers
+We are building a sample Java maven application with Jenkins.
 
 # Getting started
 
